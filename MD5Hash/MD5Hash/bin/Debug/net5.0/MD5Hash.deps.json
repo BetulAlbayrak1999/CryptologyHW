@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MD5Hash/1.0.0": {
+        "runtime": {
+          "MD5Hash.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MD5Hash/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

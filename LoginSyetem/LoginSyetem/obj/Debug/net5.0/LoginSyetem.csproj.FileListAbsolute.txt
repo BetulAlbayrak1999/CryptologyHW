@@ -1,0 +1,16 @@
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\bin\Debug\net5.0\LoginSyetem.exe
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\bin\Debug\net5.0\LoginSyetem.deps.json
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\bin\Debug\net5.0\LoginSyetem.runtimeconfig.json
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\bin\Debug\net5.0\LoginSyetem.runtimeconfig.dev.json
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\bin\Debug\net5.0\LoginSyetem.dll
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\bin\Debug\net5.0\ref\LoginSyetem.dll
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\bin\Debug\net5.0\LoginSyetem.pdb
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.csproj.AssemblyReference.cache
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.AssemblyInfoInputs.cache
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.AssemblyInfo.cs
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.csproj.CoreCompileInputs.cache
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.dll
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\ref\LoginSyetem.dll
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.pdb
+C:\Users\18120212004\Desktop\LoginSyetem\LoginSyetem\obj\Debug\net5.0\LoginSyetem.genruntimeconfig.cache
